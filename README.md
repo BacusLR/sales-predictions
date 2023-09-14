@@ -1,2 +1,2 @@
 # sales-predictions
-sales predictions project
+Bacus_Project1_Prediction_of_product_sales
